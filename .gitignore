@@ -27,3 +27,5 @@ Vagrantfile
 *.csv
 .ipynb_checkpoints/
 ny_taxi_data_hw/
+ny_taxi_data_hw_wf/
+kestra_data_hw/
